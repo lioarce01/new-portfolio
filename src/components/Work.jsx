@@ -23,7 +23,7 @@ const Work = () => {
           </div>
           <div className="flex justify-center py-4">
             <a
-              href="/"
+              href="https://github.com/lioarce01"
               className="border px-8 py-2 rounded-lg hover:bg-gray-300 hover:text-[#141414] transition duration-300 font-light dark:bg-[#FFFAF0] dark:hover:border-[#141414] dark:border-[#FFFAF0]"
             >
               My portfolio
