@@ -17,14 +17,14 @@ const Contact = () => {
           <div className="flex my-4 justify-center">
             <a
               className="flex justify-center p-1 m-1 items-center rounded-md hover:bg-gray-300 hover:text-[#141414] transition duration-300 font-light md:mx-2 dark:text-[#141414] dark:bg-[#FFFAF0] dark:border-[#FFFAF0] dark:hover:border-[#141414]"
-              href="/"
+              href="https://github.com/lioarce01"
             >
               <AiOutlineGithub />
               <p className="px-1">Github</p>
             </a>
             <a
               className="flex justify-center p-1 m-1 items-center rounded-md hover:bg-gray-300 hover:text-[#141414] transition duration-300 font-light md:mx-2 dark:text-[#141414] dark:bg-[#FFFAF0] dark:border-[#FFFAF0] dark:hover:border-[#141414]"
-              href="/"
+              href="https://www.linkedin.com/in/lionel-arce-62b873177/"
             >
               <AiOutlineLinkedin />
               <p className="px-1">LinkedIn</p>
@@ -38,7 +38,7 @@ const Contact = () => {
             </a>
             <a
               className="flex justify-center p-1 m-1 items-center rounded-md hover:bg-gray-300 hover:text-[#141414] transition duration-300 font-light md:mx-2 dark:text-[#141414] dark:bg-[#FFFAF0] dark:border-[#FFFAF0] dark:hover:border-[#141414]"
-              href="/"
+              href="https://www.instagram.com/lioarce_/"
             >
               <AiOutlineInstagram />
               <p className="px-1">Instagram</p>
