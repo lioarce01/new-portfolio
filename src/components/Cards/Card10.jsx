@@ -10,7 +10,7 @@ const Card = () => {
         <img className="w-full" src={thumbTerminal} alt="Terminal Emulator" />
         <div className="px-2">
           <div className="font-bold text-gray-300 text-xl my-2 dark:text-[#141414]">
-            Terminal emulator website with ReactJS and CSS
+            Terminal emulator website
           </div>
           <p className="text-gray-300 font-light text-base dark:text-[#141414]">
             Terminal emulator website with ReactJS and CSS
