@@ -1,15 +1,15 @@
 import React from "react"
-import Card1 from "./Cards/Card1"
+import Card10 from "./Cards/Card10"
 
 const Carrousel = () => {
   return (
     <div className="bg-[#141414] dark:bg-[#fcf9df]">
       <h1 className="items-center justify-center flex p-4 pb-8 text-gray-300 font-bold text-2xl dark:text-[#141414]">
-        Projects
+        Latest Project
       </h1>
-      <div className="w-full justify-center flex items-center">
-        <div className="grid grid-cols items-center">
-          <Card1 />
+      <div className="flex items-center justify-center w-full">
+        <div className="grid items-center grid-cols">
+          <Card10 />
         </div>
       </div>
       <div className="flex justify-center py-4">
