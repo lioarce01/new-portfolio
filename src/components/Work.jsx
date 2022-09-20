@@ -12,13 +12,14 @@ const Work = () => {
             </h2>
           </div>
           <div className="p-4">
-            <h1 className="font-bold text-xl pb-2">Work</h1>
+            <h1 className="pb-2 text-xl font-bold">Work</h1>
             <p className="text-justify">
               Lionel Arce is a full-stack developer based in Argentina with a
-              great passion for designing and building websites. He is also very
-              passionate about crypto world and decided to start studying
-              blockchain development. Currently building projects for his
-              fullstack portfolio.
+              great passion for designing and building websites.
+              He has worked with different technologies such as Javascript, ReactJS, NextJS, 
+              NodeJS. He is currently studying Fullstack Development at Henry and learning
+              new technologies every day. At the moment he is looking for his first job as a
+              software developer.
             </p>
           </div>
           <div className="flex justify-center py-4">
